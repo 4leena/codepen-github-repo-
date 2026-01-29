@@ -40,3 +40,12 @@ body {
   color: #111827;
 }
 
+.info a {
+  font-size: 14px;
+  color: #6366f1;
+  text-decoration: none;
+}
+
+.info a:hover {
+  text-decoration: underline;
+}
